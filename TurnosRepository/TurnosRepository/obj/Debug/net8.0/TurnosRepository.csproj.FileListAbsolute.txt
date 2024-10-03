@@ -1,0 +1,14 @@
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\bin\Debug\net8.0\TurnosRepository.deps.json
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\bin\Debug\net8.0\TurnosRepository.runtimeconfig.json
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\bin\Debug\net8.0\TurnosRepository.dll
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\bin\Debug\net8.0\TurnosRepository.pdb
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\obj\Debug\net8.0\TurnosRepository.csproj.AssemblyReference.cache
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\obj\Debug\net8.0\TurnosRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\obj\Debug\net8.0\TurnosRepository.AssemblyInfoInputs.cache
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\obj\Debug\net8.0\TurnosRepository.AssemblyInfo.cs
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\obj\Debug\net8.0\TurnosRepository.csproj.CoreCompileInputs.cache
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\obj\Debug\net8.0\TurnosRepository.dll
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\obj\Debug\net8.0\refint\TurnosRepository.dll
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\obj\Debug\net8.0\TurnosRepository.pdb
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\obj\Debug\net8.0\TurnosRepository.genruntimeconfig.cache
+C:\Users\crist_fmbbgue\OneDrive\Documentos\TUP\Progra2\TurnosRepository\TurnosRepository\obj\Debug\net8.0\ref\TurnosRepository.dll
